@@ -39,7 +39,7 @@
 
 ## 👤 Author Name
  -Author:Zaisamae Mandigal 
- -Gmail : mandigalzaisamae@gmail.com
+-Gmail : mandigalzaisamae@gmail.com
 
 ---
 
