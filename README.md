@@ -4,8 +4,9 @@
 
 ## Project Description
 
-   The project is an ESP32-based Printed Circuit Board (PCB) developed for Electronics Engineering coursework. The design provides a reliable platform for embedded system applications, allowing wireless communication, sensor intergration, and microcontroller-based automation projects.
-   
+   The project is an ESP32-based Printed Circuit Board (PCB) developed for Electronics Engineering coursework. The design provides a reliable platform for embedded system applications, allowing wireless communication, sensor intergration, and microcontroller-based 
+automation projects.
+
 ---
 
 ## ✨ Features
@@ -15,8 +16,8 @@
 - Easy integration with sensors  and modules
 - Status LED indicators
 - Stable power and signal connections
-- Suitable for lot and automation projects
-     
+- Suitable for lot and automation projects   
+
 ---
 
 ## 🧩 Components Used
@@ -43,8 +44,8 @@
  -Author:Zaisamae Mandigal 
 
  -Gmail : mandigalzaisamae@gmail.com
-
+ 
 ---
 
 ## 🎓 Course & Section
- BS Electronics Engineering-1B
+ BS Electronics Engineering-EN1B
