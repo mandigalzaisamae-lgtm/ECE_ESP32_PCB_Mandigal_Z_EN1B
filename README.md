@@ -1,4 +1,4 @@
-#ECE_ESP32_PCB_Mandigal_Z_EN1B
+why#ECE_ESP32_PCB_Mandigal_Z_EN1B
 
 # ESP32 EXPANSION BOARD
 
@@ -39,7 +39,7 @@
 
 ## 👤 Author Name
  -Author:Zaisamae Mandigal 
--Gmail : mandigalzaisamae@gmail.com
+ -Gmail : mandigalzaisamae@gmail.com
 
 ---
 
